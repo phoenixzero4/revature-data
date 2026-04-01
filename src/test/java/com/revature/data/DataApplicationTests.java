@@ -1,4 +1,4 @@
-package com.revatrure.data;
+package com.revature.data;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
